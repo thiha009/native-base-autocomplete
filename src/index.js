@@ -190,7 +190,7 @@ const androidStyles = {
     flex: 1
   },
   list: {
-    backgroundColor: 'rgba(255,255,255,0.7)',
+    backgroundColor: 'rgb(255,255,255)',
     borderTopWidth: 0,
     left: 0,
     position: 'absolute',
@@ -206,7 +206,7 @@ const iosStyles = {
     zIndex: 1
   },
   list: {
-    backgroundColor: 'rgba(255,255,255,0.7)',
+    backgroundColor: 'rgb(255,255,255)',
     borderTopWidth: 0,
     left: 0,
     position: 'absolute',
